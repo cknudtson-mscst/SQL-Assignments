@@ -1,0 +1,9 @@
+As a office store manager, I want to keep track of stock so that I can make sure customers have what they need.
+
+As a office store manager, I want to make sure employees are able to stock.
+
+As a office store restocker, I want to be able to supply so that I can keep my job.
+
+As a office supplier, I want to sell supplies to stores so that I can make money and keep my doors open.
+
+As a office supplier, I want to deliver my supplies via drivers so that I can get the product to the store and sold on-time.

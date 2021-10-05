@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AptProject">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-DU927LB:DESKTOP-DU927LB\chris">
+          <Created>2021-10-04T14:09:55.4096098-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-DU927LB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>PropertyManager</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Wk6_Query1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DU927LB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DU927LB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wk6_Query1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wk6_Query2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DU927LB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DU927LB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wk6_Query2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wk6_Query3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DU927LB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DU927LB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wk6_Query3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wk6_Query4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DU927LB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DU927LB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wk6_Query4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wk6_Query5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-DU927LB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-DU927LB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wk6_Query5.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="QueriesAll.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>QueriesAll.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Wk6DiagramCapture.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Wk6DiagramCapture.PNG</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

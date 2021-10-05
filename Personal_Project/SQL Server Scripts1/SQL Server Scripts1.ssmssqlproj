@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Personal_Project.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="Entity_Worksheet_Wk5.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Entity_Worksheet_Wk5.txt</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Address1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Address1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Address2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Address2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_People1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_People1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_People2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_People2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Stock1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Stock1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Stock2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Stock2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Store1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Store1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Store2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Store2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Supplier1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Supplier1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Supplier2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Supplier2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Truck1.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Truck1.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Personal_Project_Truck2.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Personal_Project_Truck2.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="README.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>README.txt</FullPath>
+        </FileNode>
+        <FileNode Name="User_stories.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>User_stories.txt</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

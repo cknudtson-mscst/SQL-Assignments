@@ -1,0 +1,6 @@
+Supplier(Manager_ID, Truck_ID, Phone)
+Trucks(ID, Driver_ID)
+Store(ID, Address_ID, Stock_ID, Manager_ID, Employee_ID, Phone)
+Address(ID, Street, City, State, Zip)
+Stock(ID, Lined_Paper, Printer_Paper, Paper_Clips, Stickynotes, pens, pencils, printers, computers, calenders)
+People(ID, First_Name, Middle_Initial, Last_Name)
